@@ -1,6 +1,6 @@
 -  Hi, I’m @KeatingA
-- I’m interested in learning to code, and right scripts to learn new skills and advance my career. 
-- I’m currently learning git, Python, HTML. CSS,C#, Java. 
+- I’m interested in learning to code, and write PowerShell scripts to learn new skills and advance my career. 
+- I’m currently learning git, Python, HTML, CSS, JavaScript, C#, Java. 
 - I will add more to this README at  a later date. 
 
 <!---
